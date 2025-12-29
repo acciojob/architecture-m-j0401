@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:rgb(20,180,220);
+}
+.image1{
+	width:550px;
+}
+.type2{
+	width:600px;
+}
+img{
+	width:200px;
+}
+table{
+	border:1px solid lightcyan ;
+}
+td{
+	border:1px solid lightcyan;
+	text-align:center;
+}
+
